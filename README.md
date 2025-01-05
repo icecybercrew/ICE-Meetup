@@ -20,4 +20,4 @@ For questions, suggestions, or collaboration opportunities:
 
 Let’s learn, share, and grow together in the field of cybersecurity!
 
-Supported by : [RE:HACK](https://www.rehack.my/home/)
+Supported by : [RE:HACK](https://www.rehack.my/home/), DETA and MULHAQ
