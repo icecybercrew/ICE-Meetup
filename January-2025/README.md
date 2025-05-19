@@ -10,3 +10,4 @@ Participants were also treated to free food and stickers, making the session mor
 1. [RE:HACK](https://www.rehack.my/home/)
 2. [DeTA](https://plashspeed-aiman.github.io/#/gerakan)
 3. Anonymous Sponsors
+4. [Hack The Box](https://hacktheboxltd.sjv.io/kORj2L)

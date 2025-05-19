@@ -7,3 +7,4 @@ This meetup was organized by [SIG: Cybersecurity IIUM](https://www.linkedin.com/
 1. [RE:HACK](https://www.rehack.my/home/)
 2. [CoExCyS](https://kulliyyah.iium.edu.my/kict/centre-of-e-c-s/)
 3. [DeTA](https://plashspeed-aiman.github.io/#/gerakan)
+4. [Hack The Box](https://hacktheboxltd.sjv.io/kORj2L)
